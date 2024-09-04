@@ -1,4 +1,4 @@
-4) Descubra a lógica e complete o próximo elemento:
+## Descubra a lógica e complete o próximo elemento:
 a) 1, 3, 5, 7, _9_
 Resultado sempre somado com número 2
 1 + 2 = 3 + 2 = 5 + 2 = 7 + 2 = 9
